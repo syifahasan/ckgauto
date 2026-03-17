@@ -1,0 +1,28 @@
+BUTTON_DAFTAR_BARU = "text=Daftar Baru"
+INPUT_NIK = "input[name='NIK']"
+INPUT_NAMA = "input[name='Nama']"
+INPUT_WA = "input[name='Nomor Whatsapp']"
+TEXTAREA_DETAIL_DOMISILI = "textarea#detail-domisili"
+BUTTON_SELanjutnya = "text=Selanjutnya"
+BUTTON_PILIH = "button.w-fill >> text=Pilih"
+BUTTON_DAFTARKAN_NIK = "div.tracking-wide >> text=Daftarkan dengan NIK "
+CHECKBOX_NO_WALI = "input[type='checkbox'][id='noWali']"
+BUTTON_DAFTAR = "button[type='submit']:has-text('Daftar')"
+MODAL_FORM_PENDAFTARAN = "div.bg-white:has-text('Formulir Pendaftaran')"
+BUTTON_LANJUTKAN_VALID = "button:has-text('Lanjutkan')"
+MODAL_DATA_VALID = "text='Data peserta valid'"
+INPUT_PEKERJAAN = "text='Pilih pekerjaan'"
+INPUT_ALAMAT_DOMISILI = "text='Pilih alamat domisili'"
+BUTTON_TUTUP = "button.w-fill >> text=Tutup"
+BUTTON_CLOSE_FORM = "button.absolute.right-4.top-3"
+
+MODAL_DATA_INVALID = "text='Data peserta tidak valid'"
+BUTTON_PERIKSA_KEMBALI = "div.tracking-wide >> text='Periksa Kembali'"
+
+MODAL_ERROR = "text='Terjadi kesalahan'"
+BUTTON_ERROR_OK = "button.btn-fill-warning"
+
+BUTTON_CLOSE_FORM = "button.absolute.right-4.top-3"
+
+MODAL_KUOTA_HABIS = "text='Kuota Pemeriksaan Habis'"
+BUTTON_LANJUT_KUOTA = "div.tracking-wide >> text='Lanjut'"

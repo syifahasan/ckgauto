@@ -1,0 +1,6 @@
+MENU_CARI_DAFTAR = "text='Cari/Daftarkan Individu'"
+BUTTON_KONFIRMASI = "button:has-text('Konfirmasi Hadir')"
+INPUT_VERIFY = "input#verify"
+CHECK_VERIFY = "div.check"
+BUTTON_HADIR = "button:has(div.tracking-wide:has-text('Hadir'))"
+BUTTON_CLOSE_SUCCESS = "button.w-fill >> text=Tutup"
